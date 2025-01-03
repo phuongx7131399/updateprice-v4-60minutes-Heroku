@@ -1,1 +1,1 @@
-worker: python your_script_name.py
+worker: python updateprice-v4-60minutes-Heroku.py
