@@ -1,1 +1,1 @@
-worker: python updateprice-v4-60minutes-Heroku.py
+worker: python getprice_v4_autorun60.py
